@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-//tipo de variable : struc
+//tipo de variable 
+
 struct vector{
     float x,y,z;
 }; 
